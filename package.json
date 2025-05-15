@@ -14,11 +14,14 @@
     "clsx": "^2.1.1",
     "daisyui": "^5.0.35",
     "elysia": "latest",
+    "elysia-vite-server": "^0.0.1",
     "tailwind-merge": "^3.3.0",
     "tailwindcss": "^4.1.6"
   },
   "devDependencies": {
     "@flydotio/dockerfile": "^0.7.10",
-    "bun-types": "latest"
+    "bun-types": "latest",
+    "elysia-connect-middleware": "^0.0.6",
+    "vite": "^6.3.5"
   }
 }
