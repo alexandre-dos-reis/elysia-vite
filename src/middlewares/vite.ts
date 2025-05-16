@@ -3,7 +3,7 @@ import { createServer as viteCreateServer } from "vite";
 import { connect } from "elysia-connect-middleware";
 import { htmx } from "@gtramontina.com/elysia-htmx";
 
-export const devMiddleware = new Elysia({ name: "dev" })
+export const viteMiddleware = new Elysia({ name: "dev" })
   .use(htmx())
   .state(
     "vite",
