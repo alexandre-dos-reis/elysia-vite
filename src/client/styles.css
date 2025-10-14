@@ -1,7 +1,0 @@
-@import "tailwindcss" source(none);
-@source "../.";
-@plugin "daisyui";
-
-@import "../../node_modules/preline/variants.css";
-
-@plugin "@tailwindcss/forms";

@@ -11,6 +11,6 @@
     "strict": true,
     "skipLibCheck": true,
     "jsx": "react-jsx",
-    "jsxImportSource": "@kitajs/html"
+    "jsxImportSource": "@kitajs/html",
   }
 }
